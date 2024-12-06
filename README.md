@@ -77,6 +77,7 @@ endmodule
 
 **Full adder**
 ![Screenshot 2024-03-28 154124](https://github.com/priyadharshini210/FULL_ADDER_SUBTRACTOR/assets/148514638/cd86403a-9bfd-4442-ad05-96204ce44a6c)
+
 **Full subractor**
 ![Screenshot 2024-03-28 154106](https://github.com/priyadharshini210/FULL_ADDER_SUBTRACTOR/assets/148514638/e86ad945-b84f-4510-83bc-ca30eb56bedd)
 
