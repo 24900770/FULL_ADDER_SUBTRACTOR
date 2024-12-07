@@ -68,7 +68,7 @@ output BO,DIFF;
 assign DIFF = a ^ b ^ Bin;
   assign BO = (a & b) | ((a ^ b) & Bin);
 endmodule
-```
+``
 **RTL Schematic**
 ![314523275-2d86d03d-584f-4527-b9fb-d9d892f1c056](https://github.com/priyadharshini210/FULL_ADDER_SUBTRACTOR/assets/148514638/f68047b7-4451-4baa-88b8-6d21af3a423a)
 ![314523356-d9734426-62a3-4b80-a363-2e1869805d8c](https://github.com/priyadharshini210/FULL_ADDER_SUBTRACTOR/assets/148514638/de720dfc-9d76-4cbf-b05b-16255a1ce86b)
