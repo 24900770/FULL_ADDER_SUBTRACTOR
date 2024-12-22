@@ -38,6 +38,14 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+**FULL ADDER:**
+
+![DE E-4 truthtable](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/7116d2bf-8e90-4e96-bfd5-d62af11a317a)
+
+**FULL SUBTRACTOR:**
+
+![DE E-4 subtractor truth table](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/33d8ba16-9169-40b0-8696-3bb8e5c3a0b7)
+
 **Procedure**
 
 Write the detailed procedure here
